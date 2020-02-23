@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 function App() {
   return <>
-  <label>enter number</label>
+  <label>enter number changed</label>
   <input type="number" />
   </>
 }
